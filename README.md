@@ -18,9 +18,7 @@ A quality-oriented Full Stack Software Engineer with 4+ years of experience and 
 
 ## 🚀 Skills
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,python,react,vue,nuxtjs,nextjs,html,css,mysql,postgres,tailwind,docker,materialui,mongodb,aws,nestjs,firebase,php,laravel&perline=11" />
-  </a>
 </p>
 
 ## 🌱 Continuous Learning
