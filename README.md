@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A quality-oriented Full Stack Software Engineer with 4+ years of experience and a strong technical background in IT. Known for my unwavering commitment to excellence, I have embraced challenges and motivated by the impact my work can have on users and businesses alike, constantly striving to exceed expectations and create meaningful solutions. Check out my porfolio <a href="https://hammad-afzall.github.io/" target="_blank">here</a>
+A quality-oriented Full Stack Software Engineer with over 5 years of experience and a strong technical background in IT. Known for my unwavering commitment to excellence, I have embraced challenges and motivated by the impact my work can have on users and businesses alike, constantly striving to exceed expectations and create meaningful solutions. Check out my porfolio <a href="https://hammad-afzall.github.io/" target="_blank">here</a>
 
 ## 🚀 Skills
 <p align="center">
